@@ -1,0 +1,18 @@
+{
+  "name": "video-aap-backend",
+  "version": "1.0.0",
+  "description": "video aap backend -- It's  Awesome !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learning",
+    "Backend",
+    "from",
+    "HC",
+    "Sir"
+  ],
+  "author": "Deepanshu Saini",
+  "license": "ISC"
+}
